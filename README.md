@@ -32,7 +32,7 @@
 - 解决特殊用户无法使用文本的障碍。
 ### 产品原型
 - 产品原型图展示
-![产品原型图](https://upload-images.jianshu.io/upload_images/9510447-364f501ab26ee1b1.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![产品原型图](images/原型.jpg)
 - 点击查看[产品原型](https://heeya-pol.github.io/API_museum/)
 - 点击跳转至[原型下载区](https://github.com/HEEya-pol/API_museum)
 
