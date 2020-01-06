@@ -38,7 +38,7 @@
 
 ### API的使用
 1.[高德地图API文档](https://lbs.amap.com/api/webservice/summary/)
-2.[百度智能硬件定位服务文档](http://lbsyun.baidu.com/index.php?title=webapi/intel-hardware-api)
+<br>2.[百度智能硬件定位服务文档](http://lbsyun.baidu.com/index.php?title=webapi/intel-hardware-api)
 - 请求代码示例
 ```{
 	"ver": "1.0",
@@ -147,8 +147,8 @@
 }
 ```
 3.[百度地图调起API服务文档](http://lbsyun.baidu.com/index.php?title=uri)
-4.百度语音合成<br>[百度语音合成技术文档](https://ai.baidu.com/ai-doc/SPEECH/Gk38y8lzk)<br>[调用流程示例](https://ai.baidu.com/ai-doc/SPEECH/0k38y8mfh)
-5.腾讯云语音合成<br>[API文档](https://cloud.tencent.com/product/tts/developer)<br>[代码示例](https://cloud.tencent.com/document/product/1073/37935)
+<br>4.百度语音合成<br>[百度语音合成技术文档](https://ai.baidu.com/ai-doc/SPEECH/Gk38y8lzk)<br>[调用流程示例](https://ai.baidu.com/ai-doc/SPEECH/0k38y8mfh)
+<br>5.腾讯云语音合成<br>[API文档](https://cloud.tencent.com/product/tts/developer)<br>[代码示例](https://cloud.tencent.com/document/product/1073/37935)
 
 
 
@@ -156,14 +156,14 @@
 ##### 一、地图API
 **（一）高德地图API**
 1.搜索POI：搜索服务API是一类简单的HTTP接口，提供多种查询POI信息的能力，其中包括关键字搜索、周边搜索、多边形搜索、ID查询四种筛选机制。
-2.IP定位：根据用户输入的IP地址，能够快速的帮用户定位IP的所在位置。将IP信息转换为地理位置信息。
-3.[定价](https://lbs.amap.com/home/package?active=quota)
+<br>2.IP定位：根据用户输入的IP地址，能够快速的帮用户定位IP的所在位置。将IP信息转换为地理位置信息。
+<br>3.[定价](https://lbs.amap.com/home/package?active=quota)
 
 **（二）百度地图API**
 1.智能硬件定位
 - 功能：利用蓝牙、WI-FI、基站、GPS等信息，传给服务端进行处理，获取定位信息，完成地图、路线规划、轨迹等功能。适用于室内、室外多种定位场景，覆盖智能可穿戴设备、车载设备等。可判断当前定位点在室内或者室外，支持室内场景下返回建筑物名称、当前楼层信息。
 
-2.地图调起API
+<br>2.地图调起API
 - 功能：为开发者提供直接调起百度地图产品，以满足特定业务场景下应用需求的程序接口，开发者只需按照接口规范构造一条标准的URI，便可在PC和移动端浏览器或移动开发应用中调起百度地图产品，进行地图展示和检索、线路查询、导航等功能，无需进行复杂的地图功能开发。 该套API免费对外开放，无需申请ak。只需构造一条标准规范的URL，便可直接调起百度地图产品。
 
 [定价](http://lbsyun.baidu.com/index.php?title=FAQ/Concurrent)
@@ -184,7 +184,7 @@
 支持基础语音合成和实时语音合成两种模式。
 - 采样率：
 支持8K、16K两种采样率的合成效果。
-2.[定价](https://cloud.tencent.com/product/tts/pricing) 
+<br>2.[定价](https://cloud.tencent.com/product/tts/pricing) 
 
 **（二）百度AI——语音合成**
 1.功能：
@@ -197,7 +197,7 @@
 中文多音字可通过标注拼音、音调自行定义发音，例如“轻舟已过万重（chong2）山”、“脑筋急转（zhuan3）弯”
 - 多种调用方式，满足多场景需求：
 提供REST API接口、在线离线融合SDK，满足不同网络环境下的语音合成需求，提供流畅自然的合成体验
-2.[定价](https://ai.baidu.com/ai-doc/SPEECH/Nk38y8pjq)
+<br>2.[定价](https://ai.baidu.com/ai-doc/SPEECH/Nk38y8pjq)
 
 
 
@@ -205,7 +205,7 @@
 1.实时定位导航
 - 可能受网络、其他信号的干扰、GPS信号弱等问题影响定位的准确性，从而导致路径规划出错、延迟。
 - 室内布局变更频繁，地理数据获取难度很大
-2.语音合成
+<br>2.语音合成
 - 受多音字、语种等问题的影响可能会出现语音播报模糊
 ### API使用风险报告
 ##### 定位导航
